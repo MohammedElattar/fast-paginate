@@ -35,5 +35,6 @@
                 "Elattar\\FastPaginate\\FastPaginateProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
